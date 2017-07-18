@@ -1,0 +1,55 @@
+.breaking_news_option {
+    margin-top: 10px;
+    border: 1px solid #eeeeee;
+    width: 100%;
+}
+.breaking_news_option td {
+    padding: 10px 15px;
+    vertical-align: top;
+}
+.breaking_news_option .label {
+    background-color: #f9f9f9;
+    width: 24%;
+    border-right: 1px solid #E1E1E1;
+}
+.breaking_news_option .label label {
+    display: block;
+    font-size: 13px;
+    line-height: 1.4em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0 0 3px;
+    color: #333;
+}
+.breaking_news_option .custom_title {
+    width: 99.95%;
+    padding: 3px 5px;
+    outline: none;
+}
+.breaking_news_option label.checkbox_label {
+    display: block;
+    font-size: 13px;
+    line-height: 1.4em;
+    padding: 0;
+    margin: 0 0 3px;
+    color: #333;
+}
+.breaking_news_option label.input_label {
+    padding-top: 10px;
+    display: block;
+    font-style: italic;
+    color: #666;
+}
+.breaking_news_option .input_label input {
+    margin-bottom: 5px;
+    display: block;
+}
+.breaking_news_option .description {
+    display: block;
+    font-size: 12px;
+    padding: 0 !important;
+    margin: 3px 0 0 !important;
+    font-style: normal;
+    line-height: 16px;
+    color: #899194;
+}

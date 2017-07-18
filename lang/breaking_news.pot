@@ -1,0 +1,190 @@
+# Copyright (C) 2017 Breaking News
+# This file is distributed under the same license as the Breaking News package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Breaking News 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/breaking_news\n"
+"POT-Creation-Date: 2017-07-12 19:55+0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: options_page.php:54 options_page.php:72
+msgid "Breaking News Options"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: options_page.php:55 post_editor.php:61
+msgid "Breaking News"
+msgstr ""
+
+#: options_page.php:97
+msgid "Block Area Settings"
+msgstr ""
+
+#: options_page.php:104
+msgid "Title"
+msgstr ""
+
+#: options_page.php:112
+msgid "Background Color"
+msgstr ""
+
+#: options_page.php:120
+msgid "Text Color"
+msgstr ""
+
+#: options_page.php:128
+msgid "Content Settings"
+msgstr ""
+
+#: options_page.php:135
+msgid "Active Post"
+msgstr ""
+
+#: options_page.php:150
+msgid "Settings"
+msgstr ""
+
+#: options_page.php:169
+msgid "The Title field is required."
+msgstr ""
+
+#: options_page.php:179
+msgid "Insert a valid color for Background"
+msgstr ""
+
+#: options_page.php:190
+msgid "Insert a valid color for text"
+msgstr ""
+
+#: options_page.php:230
+msgid "A text field for the title of the breaking news area"
+msgstr ""
+
+#: options_page.php:244
+msgid "A color for the background color of the breaking news area"
+msgstr ""
+
+#: options_page.php:258
+msgid "A color for the text color of the breaking news"
+msgstr ""
+
+#: options_page.php:270
+msgid "The breaking new post is not set"
+msgstr ""
+
+#: options_page.php:279
+msgid "expired"
+msgstr ""
+
+#: options_page.php:282
+msgid "By clicking on the link above you can edit the post"
+msgstr ""
+
+#: options_page.php:307
+msgid "Overview"
+msgstr ""
+
+#: options_page.php:308
+msgid ""
+"The plugin allows you to feature the individual post as “breaking news.”."
+msgstr ""
+
+#: options_page.php:309
+msgid ""
+"Default title of the breaking news will be taken from the post title. But "
+"you can also set a custom title for breaking news that will be shown instead "
+"of the post title."
+msgstr ""
+
+#: options_page.php:310
+msgid ""
+"For breaking news post you can set an expiration date. When the required "
+"time expires, the post will not be shown as “breaking news” at the site."
+msgstr ""
+
+#: options_page.php:311
+msgid ""
+"There can be only one active breaking news post at a time, which should be "
+"the post that was activated last."
+msgstr ""
+
+#: options_page.php:312
+msgid ""
+"On this screen, you can change the title and background color of the "
+"breaking news area, and set a custom color of the text."
+msgstr ""
+
+#: options_page.php:317
+msgid "How to use"
+msgstr ""
+
+#: options_page.php:318
+msgid ""
+"To display the breaking news active post on your site, you need to edit the "
+"template of your theme and paste the code that retrieves active post. There "
+"are several ways to do this:"
+msgstr ""
+
+#: options_page.php:319
+msgid ""
+"Insert a shortcode [breaking_news] into the template. <br /> Example: "
+"<strong>"
+msgstr ""
+
+#: options_page.php:320
+msgid ""
+"Run the function get_the_breaking_news_active_post. <br /> Example: <strong>"
+msgstr ""
+
+#: options_page.php:321
+msgid ""
+"You can also display breaking news active post on any page or individual "
+"post, you need to edit the page or post and insert a shortcode "
+"<strong>[breaking_news]</strong> into the editor."
+msgstr ""
+
+#: post_editor.php:179
+msgid "Make this post breaking news"
+msgstr ""
+
+#: post_editor.php:187
+msgid "Custom title"
+msgstr ""
+
+#: post_editor.php:189
+msgid ""
+"An optional text field containing a custom title that will be shown instead "
+"of the post title"
+msgstr ""
+
+#: post_editor.php:198
+msgid "Expiration date"
+msgstr ""
+
+#: post_editor.php:200
+msgid ""
+"You could set an expiration date for the post. When the required time "
+"expires, the post will not be marked as “breaking news”."
+msgstr ""
+
+#: post_editor.php:205
+msgid "Set an expiration date"
+msgstr ""
+
+#: post_editor.php:210
+msgid "Select the date and time"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin to display breaking news"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Alisher Agzamov"
+msgstr ""
